@@ -2,3 +2,5 @@ for branch 2
 
 
 2. for creating new properties 
+
+3. change on remote master 
