@@ -1,8 +1,16 @@
-for branch 2
+1.for branch 2
 
-\\\
+
+
+@@@
+
+ 
 2. for creating new properties 
 
 3. change on remote master 
 
+
 5. Adding for check the conflict
+
+4. change on local master... 
+
